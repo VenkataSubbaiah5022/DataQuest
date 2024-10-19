@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
 
 **Clone the repository:**
 
-git clone https://github.com/your-username/student-performance-ranking-system.git
+[git clone https://github.com/your-username/student-performance-ranking-system.git](https://github.com/AITHA-VENKATASUBBAIAHSETTY/DataQuest)
 Navigate to the project directory:
 
 cd student-performance-ranking-system
